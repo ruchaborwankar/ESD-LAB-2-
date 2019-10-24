@@ -1,0 +1,13 @@
+%SIGNAL
+PIN   2 =  A15 
+PIN  15 =  CE 
+%END
+
+%FIELD
+%END
+
+%EQUATION
+CE =>
+    A15
+
+%END

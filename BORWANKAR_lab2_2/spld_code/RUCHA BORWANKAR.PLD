@@ -1,0 +1,22 @@
+Name     rucha borwankar ;
+PartNo   00 ;
+Date     9/26/2019 ;
+Revision 01 ;
+Designer Engineer ;
+Company  University of Colorado Boulder ;
+Assembly None ;
+Location  ;
+Device   virtual ;
+
+/***input**/
+
+Pin 2 = A15 ;
+
+/*** output ***/
+
+Pin 15 = CE ;
+
+/*logic*/
+
+
+CE = A15;
